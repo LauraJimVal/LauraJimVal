@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LauraJimVal
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning programming languages and frameworks
+- 💞️ I’m looking to collaborate on some projects
+- 📫 How to reach me : laura_jimenez_valencia@hotmail.com
